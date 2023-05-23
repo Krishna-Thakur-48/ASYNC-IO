@@ -1,0 +1,8 @@
+#The runtime of this modified code is much faster than the one
+#without asyncio module. 
+#It's runtime comes to be somewhere between o.5 to 1.5 seconds 
+#While the original codes runtime exceeded 40s most of the time 
+
+#Case -1 
+# Without asyncio- Execution time: 45.36962127685547 seconds
+# With asyncio   - Execution time: 1.634913682937622 seconds
